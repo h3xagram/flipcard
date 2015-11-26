@@ -103,10 +103,10 @@ body {
 .card .user{
     border-radius: 50%;
     display: block;
-    height: 120px;
+    height: 340px;
     margin: -55px auto 0;
     overflow: hidden;
-    width: 120px;
+    width: 620px;
 }
 .card .user img{
     background: none repeat scroll 0 0 #FFFFFF;
